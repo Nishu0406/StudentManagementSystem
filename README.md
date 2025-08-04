@@ -4,7 +4,7 @@ A simple console-based Student Management System built using Java and MySQL. Thi
 
 ---
 
-##  Features
+## Features
 
 ✅ Add new student  
 ✅ View all students  
@@ -16,13 +16,25 @@ A simple console-based Student Management System built using Java and MySQL. Thi
 
 ---
 
-##  Tech Stack
+## Tech Stack
 
 - Java (JDK 17+)
 - MySQL
 - JDBC
 - IntelliJ IDEA or any Java IDE
 - Git & GitHub
+
+ ## Folder Structure 
+StudentManagementSystem/
+├── src/
+│   └── com/example/student_management_system/
+│       ├── Client.java
+│       ├── Student.java
+│       ├── StudentDAO.java
+│       ├── StudentDaoInterface.java
+│       └── DatabaseConnection.java
+├── .gitignore
+├── README.md
 
 
 
